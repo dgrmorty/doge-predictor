@@ -1,6 +1,6 @@
 # 🚀 Dogecoin Price Predictor 🐕💰  
 
-![Dogecoin Predictor](hhttps://avatars.mds.yandex.net/i?id=0555b0669a5d2c0d431eb4623f626b9e-4234439-images-thumbs&n=13)  
+![Dogecoin Predictor](https://avatars.mds.yandex.net/i?id=0555b0669a5d2c0d431eb4623f626b9e-4234439-images-thumbs&n=13)  
 
 **Dogecoin Price Predictor** — это инструмент для предсказания будущих цен криптовалюты **Dogecoin (DOGE)** с использованием методов машинного обучения.  
 
